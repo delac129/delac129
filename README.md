@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Beat Blendr
+- 📫 How to reach me:
+  alfonsojd11@gmail.com,
+  www.linkedin.com/in/alfonso-de-la-cruz-235737294
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delac129&theme=tokyonight)
+
+
+
 
 <!--
 **delac129/delac129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
