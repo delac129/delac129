@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Beat Blendr
-- 📫 How to reach me:
-  alfonsojd11@gmail.com,
-  www.linkedin.com/in/alfonso-de-la-cruz-235737294
+- 🔭 I’m currently working on a playlist creator web app, primarily back-end, with a group of 4
+- 🌱 I’m currently learning unity & MySQL
+- 📫 How to reach me: alfonsojd11@gmail.com,
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delac129&theme=tokyonight)
 
 
